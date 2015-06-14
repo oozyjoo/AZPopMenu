@@ -1,6 +1,7 @@
 # AZPopMenu
 A popup menu for ios written by swift.
 ![alt text](https://github.com/oozyjoo/AZPopMenu/blob/master/demo.png "demo pic")
+
     *作用：
         创建一个pop菜单。
     *使用方法： 
